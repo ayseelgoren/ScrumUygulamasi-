@@ -1,0 +1,12 @@
+C:\Users\ayse\Desktop\yazYapım\yazYapım\bin\Debug\yazYapım.exe.config
+C:\Users\ayse\Desktop\yazYapım\yazYapım\bin\Debug\yazYapım.exe
+C:\Users\ayse\Desktop\yazYapım\yazYapım\bin\Debug\yazYapım.pdb
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.csprojResolveAssemblyReference.cache
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.form_proje.resources
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.Properties.Resources.resources
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.csproj.GenerateResource.Cache
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.exe
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.pdb
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.form_anasayfa.resources
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.form_story.resources
+C:\Users\ayse\Desktop\yazYapım\yazYapım\obj\Debug\yazYapım.exe.licenses
