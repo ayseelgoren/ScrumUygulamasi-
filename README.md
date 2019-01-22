@@ -1,6 +1,6 @@
 #Scrum Uygulaması
 
-Scrum Uygulaması  projenin evrelerinin belirlenmesinde kolaylık sağlar.
+Scrum Uygulaması projede kimin hangi evrede ne yapacacığının belirlenilmesinde yardımcı olması için tasarlandı.
 
 
 Projede halen daha eksikler vardır.
